@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PuppySignal',
+  title: 'Documentation',
   tagline: 'Pet QRCode Tag',
   favicon: 'img/favicon.ico',
 
